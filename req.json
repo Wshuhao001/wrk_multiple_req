@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/update",
+    "body": "call=publish&name=bing",
+    "method": "POST",
+  },
+  {
+    "path": "/query",
+    "body": "call=play&bing",
+    "method": "POST",
+  },
+  {
+    "path": "/update",
+    "body": "call=un_publish&name=bing",
+    "method": "POST",
+  }
+]
